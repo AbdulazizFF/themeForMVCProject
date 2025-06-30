@@ -1,0 +1,1 @@
+@dotnet watch --project .\smartadmin-aspnetcore-bare\src\SmartAdmin.WebUI run
